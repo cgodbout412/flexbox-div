@@ -126,6 +126,22 @@ body {
   width: 30%;
   justify-content: center;
   align-items: center;
+  text-align: center;
+}
+
+.div-1 {
+  background-color: #028090;
+  color: white;
+}
+
+.div-2 {
+  background-color: #F0F3BD;
+  color: black;
+}
+
+.div-3 {
+  background-color: #00A896;
+  color: white;
 }
 
 
